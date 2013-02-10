@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="github-qinqon" fetch="https://github.com/qinqon" />
+  <default revision="master" remote="github-qinqon" />
+
+  <project path="cxxproject" revision="qinqon-work"/> 
+
+</manifest>
